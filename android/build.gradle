@@ -33,8 +33,8 @@ android {
     defaultConfig {
         namespace 'net.touchcapture.qr.flutterqr'
         // minSdkVersion is determined by Native View.
-        minSdkVersion 20
-        targetSdkVersion 33
+        minSdkVersion 21
+        targetSdkVersion 35
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
     }
